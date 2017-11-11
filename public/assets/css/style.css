@@ -1,0 +1,45 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+.topbar {
+  min-height: 20vh;
+  text-align: center;
+  background-color: black;
+  color: white;
+  background-size : cover;
+  background-repeat: no-repeat;
+  font-family: 'Merriweather', serif;
+}
+.topbar h2 {
+  padding-top: 15px;
+}
+
+
+#createlogin {
+  color : white;
+}
+#ht-message {
+  color: red;
+}
+#lgmsg {
+  color: red;
+}
+#create h4{
+  font-family: 'Berkshire Swash', cursive;
+}
+
+
+.page-footer {
+   background-color: black ;
+   color : white;
+}
+
+#frontimg {
+  padding-top: 40px;
+  margin-top: 10px;
+  padding-right: 20px;
+  opacity : 0.5;
+/*  height: 50vh; */
+}
